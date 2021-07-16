@@ -93,4 +93,4 @@
 
 ----
 
-Made with :love: and VSCode ![](https://hit.yhype.me/github/profile?user_id=53441990)
+Made with <3 and VSCode ![](https://hit.yhype.me/github/profile?user_id=53441990)
