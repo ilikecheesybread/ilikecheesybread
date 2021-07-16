@@ -1,8 +1,7 @@
-# Welcome to my profile! <img src="https://raw.githubusercontent.com/ilikecheesybread/ilikecheesybread/master/wave.gif" width="30px"> ![](https://hit.yhype.me/github/profile?user_id=53441990)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+<br>
 
 ### <div align="center">Hey! I'm Aaron, a student from England.</div>  
   
@@ -16,7 +15,7 @@
 - ❓ Ask me about anything related to Red Dwarf, I'll know it!  
   
 
-- ⚡ Fun fact: I kind of prefer Atom to VS Code.  
+- ⚡ Fun fact: I kind of prefer Atom to VS Code. 
   
 
 <br/>  
@@ -80,11 +79,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilikecheesybread&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilikecheesybread&hide_border=true&layout=compact" align="center" />  
-
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=y2jhmfv306aux9pjwzrayso8m&cover_image=true&theme=natemoo-re" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=y2jhmfv306aux9pjwzrayso8m&cover_image=false&theme=default" /></div>  
 
 <br/>  
 
@@ -96,4 +93,4 @@
 
 ----
 
-Made with :love: and VSCode
+Made with :love: and VSCode ![](https://hit.yhype.me/github/profile?user_id=53441990)
