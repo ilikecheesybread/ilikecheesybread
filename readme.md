@@ -31,7 +31,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
@@ -85,6 +84,8 @@
 
 <br/>  
 
+<div align="center"> Guess what my profile views are? No cheating! </div>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ilikecheesybread&&style=flat-square" align="center" />
 </div>  
@@ -92,5 +93,4 @@
 <br />
 
 ----
-
-Made with ❤ and VSCode ![](https://hit.yhype.me/github/profile?user_id=53441990)
+<div align="center"> Made with ❤ and VSCode <img src="https://hit.yhype.me/github/profile?user_id=53441990" alt=""> </div>
